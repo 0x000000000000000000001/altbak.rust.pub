@@ -1,4 +1,2 @@
-*.purs linguist-vendored=true
-src/** linguist-vendored=true
-run/bak/** linguist-vendored=true
-run/bak/rust/** linguist-vendored=false linguist-generated=false linguist-language=Rust
+* linguist-vendored=true
+run/bak/rust/** !linguist-vendored linguist-generated=false linguist-language=Rust
