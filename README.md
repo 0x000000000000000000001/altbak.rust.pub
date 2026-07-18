@@ -1,4 +1,6 @@
 # altbak.rust.pub
 
-WIP: currently working on a compiler for Rust.
-The output directory is reserved in `run/bak/rust`.
+WIP: Currently working on a compiler targeting this language.
+
+Based on the universal backend source [0x000000000000000000001/altbak.pub](https://github.com/0x000000000000000000001/altbak.pub).
+Compiled output will be committed and exposed here for demonstrative purposes once complete.
