@@ -1,4 +1,4 @@
-# altbak.rust.pub
+# purust
 
 WIP: Currently working on a super-optimized PureScript compiler targeting Rust.
 
